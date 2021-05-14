@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.droibit.customtabslauncher:launcher:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/transforms-2/files-2.1/5c3d02f7f2c90276fabac7e88bf3646a/launcher-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../gradle/caches/transforms-2/files-2.1/5c3d02f7f2c90276fabac7e88bf3646a/launcher-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../gradle/caches/transforms-2/files-2.1/5c3d02f7f2c90276fabac7e88bf3646a/launcher-1.4.0/AndroidManifest.xml" />
+      <root url="jar://C:/gradle/caches/transforms-2/files-2.1/5c3d02f7f2c90276fabac7e88bf3646a/launcher-1.4.0/jars/classes.jar!/" />
+      <root url="file://C:/gradle/caches/transforms-2/files-2.1/5c3d02f7f2c90276fabac7e88bf3646a/launcher-1.4.0/AndroidManifest.xml" />
+      <root url="file://C:/gradle/caches/transforms-2/files-2.1/5c3d02f7f2c90276fabac7e88bf3646a/launcher-1.4.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/modules-2/files-2.1/com.github.droibit.customtabslauncher/launcher/1.4.0/b79212630962e9a72a08f6f85580f5da754510cc/launcher-1.4.0-javadoc.jar!/" />
+      <root url="jar://C:/gradle/caches/modules-2/files-2.1/com.github.droibit.customtabslauncher/launcher/1.4.0/b79212630962e9a72a08f6f85580f5da754510cc/launcher-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../gradle/caches/modules-2/files-2.1/com.github.droibit.customtabslauncher/launcher/1.4.0/16e458453f6dac99afc874efafebf9470f128f2b/launcher-1.4.0-sources.jar!/" />
+      <root url="jar://C:/gradle/caches/modules-2/files-2.1/com.github.droibit.customtabslauncher/launcher/1.4.0/16e458453f6dac99afc874efafebf9470f128f2b/launcher-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

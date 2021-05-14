@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1610578569/android.f_grecaptcha.iml" filepath="$PROJECT_DIR$/.idea/modules/1610578569/android.f_grecaptcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-220815697/com.github.droibit.plugins.flutter.customtabs.android.flutter_custom_tabs.iml" filepath="$PROJECT_DIR$/.idea/modules/-220815697/com.github.droibit.plugins.flutter.customtabs.android.flutter_custom_tabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1754038693/com.tekartik.sqflite.android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/1754038693/com.tekartik.sqflite.android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-952757422/com.tundralabs.fluttertts.android.flutter_tts.iml" filepath="$PROJECT_DIR$/.idea/modules/-952757422/com.tundralabs.fluttertts.android.flutter_tts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1558799498/io.flutter.plugins.pathprovider.android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1558799498/io.flutter.plugins.pathprovider.android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1297157659/io.flutter.plugins.urllauncher.android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-1297157659/io.flutter.plugins.urllauncher.android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-452995385/io.flutter.plugins.videoplayer.android.video_player.iml" filepath="$PROJECT_DIR$/.idea/modules/-452995385/io.flutter.plugins.videoplayer.android.video_player.iml" />
+    </modules>
+  </component>
+</project>
